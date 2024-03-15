@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm AZAchia</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm Zertax</h1>
+<h3 align="center">A noob developer</h3>
 
 
-- 🌱 I’m currently learning **javascript & flask**
-- 🔥 my best project: **[https://github.com/AZachia/python-AI-Selenium](https://github.com/AZachia/python-AI-Selenium)**
-- 🏙️ my [city](https://honzaap.github.io/GithubCity/?name=AZachia&year=2024)
+- 🌱 I’m currently learning **python-JavaScript**
+- 🔥 my best project: **[)**
+- 🏙️ my [city](https://honzaap.github.io/GithubCity/?name=LeVraiZertax&year=2024)
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,html,css,js,c,cpp,nodejs,flask,express,linux,md,stackoverflow,devto,ubuntu,debian,vscode,windows,arduino,bash,discord,linkedin,github&perline=11" />
+        <img src="https://skillicons.dev/icons?i=py,html,css,js,vscode,windows,arduino,discord,github&perline=11" />
     </a>
 </p>
 
