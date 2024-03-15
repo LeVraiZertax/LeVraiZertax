@@ -15,27 +15,27 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AZachia&theme=transparent&hide_border=true" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=LeVraiZertax&theme=transparent&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AZachia" alt="Revan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeVraiZertax" alt="Zertax" /></a> </p>
 
 
 
 <br>
 <p align="center">
-<a href="https://github.com/AZachia"><img alt="AZachia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AZachia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AZachia"><img alt="AZachia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZachia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/LeVraiZertax"><img alt="Zertax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeVraiZertax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/LeVraiZertax"><img alt="Zertax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVraiZertax&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZachia&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeVraiZertax&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AZachia&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeVraiZertax&theme=dracula) 
 
 
 ### <p align="center">👀 &nbsp;Visitors</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AZachia/count.svg" />
+  <img src="https://profile-counter.glitch.me/LeVraiZertax/count.svg" />
 </p>
 
